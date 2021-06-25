@@ -1,0 +1,401 @@
+	Place	Code	Country	Admin1	Admin2	
+1	Beverly Hills	90210	United States	California	Los Angeles	
+   34.09/-118.406
+2	Los Angeles	90002	United States	California	Los Angeles	
+   33.95/-118.246
+3	Los Angeles	90003	United States	California	Los Angeles	
+   33.965/-118.273
+4	Los Angeles	90004	United States	California	Los Angeles	
+   34.076/-118.303
+5	Los Angeles	90006	United States	California	Los Angeles	
+   34.049/-118.292
+6	Los Angeles	90012	United States	California	Los Angeles	
+   34.061/-118.238
+7	Los Angeles	90017	United States	California	Los Angeles	
+   34.056/-118.267
+8	Los Angeles	90018	United States	California	Los Angeles	
+   34.029/-118.315
+9	Los Angeles	90020	United States	California	Los Angeles	
+   34.067/-118.302
+10	Los Angeles	90024	United States	California	Los Angeles	
+   34.064/-118.441
+11	Los Angeles	90025	United States	California	Los Angeles	
+   34.045/-118.449
+12	Los Angeles	90026	United States	California	Los Angeles	
+   34.077/-118.265
+13	Los Angeles	90027	United States	California	Los Angeles	
+   34.104/-118.293
+14	Los Angeles	90029	United States	California	Los Angeles	
+   34.09/-118.294
+15	Los Angeles	90031	United States	California	Los Angeles	
+   34.078/-118.211
+16	Los Angeles	90034	United States	California	Los Angeles	
+   34.029/-118.4
+17	Los Angeles	90035	United States	California	Los Angeles	
+   34.053/-118.381
+18	Los Angeles	90036	United States	California	Los Angeles	
+   34.07/-118.349
+19	Los Angeles	90038	United States	California	Los Angeles	
+   34.09/-118.321
+20	Los Angeles	90039	United States	California	Los Angeles	
+   34.112/-118.259
+21	Los Angeles	90041	United States	California	Los Angeles	
+   34.134/-118.208
+22	Los Angeles	90045	United States	California	Los Angeles	
+   33.963/-118.394
+23	Los Angeles	90046	United States	California	Los Angeles	
+   34.107/-118.365
+24	Los Angeles	90048	United States	California	Los Angeles	
+   34.074/-118.372
+25	Los Angeles	90049	United States	California	Los Angeles	
+   34.066/-118.474
+26	Los Angeles	90057	United States	California	Los Angeles	
+   34.062/-118.276
+27	Los Angeles	90064	United States	California	Los Angeles	
+   34.035/-118.426
+28	Los Angeles	90067	United States	California	Los Angeles	
+   34.055/-118.409
+29	Los Angeles	90071	United States	California	Los Angeles	
+   34.053/-118.255
+30	Los Angeles	90001	United States	California	Los Angeles	
+   33.973/-118.248
+31	Los Angeles	90005	United States	California	Los Angeles	
+   34.059/-118.301
+32	Los Angeles	90007	United States	California	Los Angeles	
+   34.029/-118.287
+33	Los Angeles	90008	United States	California	Los Angeles	
+   34.012/-118.341
+34	Los Angeles	90009	United States	California	Los Angeles	
+   34.052/-118.244
+35	Los Angeles	90010	United States	California	Los Angeles	
+   34.061/-118.303
+36	Los Angeles	90011	United States	California	Los Angeles	
+   34.008/-118.258
+37	Los Angeles	90013	United States	California	Los Angeles	
+   34.045/-118.243
+38	Los Angeles	90014	United States	California	Los Angeles	
+   34.044/-118.251
+39	Los Angeles	90015	United States	California	Los Angeles	
+   34.043/-118.272
+40	Los Angeles	90016	United States	California	Los Angeles	
+   34.03/-118.353
+41	Los Angeles	90019	United States	California	Los Angeles	
+   34.048/-118.334
+42	Los Angeles	90021	United States	California	Los Angeles	
+   34.033/-118.245
+43	Los Angeles	90022	United States	California	Los Angeles	
+   34.025/-118.156
+44	Los Angeles	90023	United States	California	Los Angeles	
+   34.024/-118.197
+45	Los Angeles	90028	United States	California	Los Angeles	
+   34.101/-118.325
+46	Los Angeles	90030	United States	California	Los Angeles	
+   34.052/-118.244
+47	Los Angeles	90032	United States	California	Los Angeles	
+   34.082/-118.175
+48	Los Angeles	90033	United States	California	Los Angeles	
+   34.049/-118.208
+49	Los Angeles	90037	United States	California	Los Angeles	
+   34.003/-118.286
+50	Los Angeles	90040	United States	California	Los Angeles	
+   33.991/-118.153
+51	Los Angeles	90042	United States	California	Los Angeles	
+   34.115/-118.193
+52	Los Angeles	90043	United States	California	Los Angeles	
+   33.987/-118.332
+53	Los Angeles	90044	United States	California	Los Angeles	
+   33.955/-118.29
+54	Los Angeles	90047	United States	California	Los Angeles	
+   33.957/-118.307
+55	Los Angeles	90050	United States	California	Los Angeles	
+   34.052/-118.244
+56	Los Angeles	90051	United States	California	Los Angeles	
+   34.052/-118.244
+57	Los Angeles	90052	United States	California	Los Angeles	
+   34.052/-118.244
+58	Los Angeles	90053	United States	California	Los Angeles	
+   34.052/-118.244
+59	Los Angeles	90054	United States	California	Los Angeles	
+   34.052/-118.244
+60	Los Angeles	90055	United States	California	Los Angeles	
+   34.052/-118.244
+61	Los Angeles	90056	United States	California	Los Angeles	
+   33.985/-118.371
+62	Los Angeles	90058	United States	California	Los Angeles	
+   33.999/-118.213
+63	Los Angeles	90059	United States	California	Los Angeles	
+   33.929/-118.246
+64	Los Angeles	90060	United States	California	Los Angeles	
+   34.052/-118.244
+65	Los Angeles	90061	United States	California	Los Angeles	
+   33.924/-118.272
+66	Los Angeles	90062	United States	California	Los Angeles	
+   34.003/-118.307
+67	Los Angeles	90063	United States	California	Los Angeles	
+   34.045/-118.186
+68	Los Angeles	90065	United States	California	Los Angeles	
+   34.107/-118.227
+69	Los Angeles	90066	United States	California	Los Angeles	
+   34.003/-118.43
+70	Los Angeles	90068	United States	California	Los Angeles	
+   34.116/-118.33
+71	Los Angeles	90072	United States	California	Los Angeles	
+   34.052/-118.244
+72	Los Angeles	90074	United States	California	Los Angeles	
+   34.052/-118.244
+73	Los Angeles	90076	United States	California	Los Angeles	
+   34.052/-118.244
+74	Los Angeles	90077	United States	California	Los Angeles	
+   34.111/-118.45
+75	Los Angeles	90079	United States	California	Los Angeles	
+   33.787/-118.299
+76	Los Angeles	90083	United States	California	Los Angeles	
+   34.052/-118.244
+77	Los Angeles	90084	United States	California	Los Angeles	
+   34.052/-118.244
+78	Los Angeles	90086	United States	California	Los Angeles	
+   34.052/-118.244
+79	Los Angeles	90088	United States	California	Los Angeles	
+   34.052/-118.244
+80	Los Angeles	90089	United States	California	Los Angeles	
+   33.787/-118.299
+81	Los Angeles	90091	United States	California	Los Angeles	
+   34.052/-118.244
+82	Los Angeles	90093	United States	California	Los Angeles	
+   34.052/-118.244
+83	Los Angeles	90095	United States	California	Los Angeles	
+   33.787/-118.299
+84	Los Angeles	90096	United States	California	Los Angeles	
+   34.052/-118.244
+85	Los Angeles	90134	United States	California	Los Angeles	
+   34.052/-118.244
+86	Beverly Hills	90212	United States	California	Los Angeles	
+   34.062/-118.4
+87	Arcadia	91006	United States	California	Los Angeles	
+   34.132/-118.026
+88	Chatsworth	91311	United States	California	Los Angeles	
+   34.258/-118.591
+89	Tujunga	91042	United States	California	Los Angeles	
+   34.254/-118.285
+90	Los Angeles	90070	United States	California	Los Angeles	
+   34.052/-118.244
+91	Los Angeles	90073	United States	California	Los Angeles	
+   33.787/-118.299
+92	Los Angeles	90075	United States	California	Los Angeles	
+   34.052/-118.244
+93	Los Angeles	90080	United States	California	Los Angeles	
+   34.052/-118.244
+94	Los Angeles	90081	United States	California	Los Angeles	
+   34.052/-118.244
+95	Los Angeles	90082	United States	California	Los Angeles	
+   34.052/-118.244
+96	Los Angeles	90087	United States	California	Los Angeles	
+   34.052/-118.244
+97	Culver City	90230	United States	California	Los Angeles	
+   33.995/-118.399
+98	Redondo Beach	90277	United States	California	Los Angeles	
+   33.831/-118.383
+99	Marina Del Rey	90292	United States	California	Los Angeles	
+   33.978/-118.452
+100	Torrance	90503	United States	California	Los Angeles	
+   33.84/-118.354
+101	Pasadena	91105	United States	California	Los Angeles	
+   34.135/-118.164
+102	Pasadena	91107	United States	California	Los Angeles	
+   34.151/-118.089
+103	Burbank	91505	United States	California	Los Angeles	
+   34.169/-118.344
+104	Malibu	90263	United States	California	Los Angeles	
+   34.005/-118.81
+105	Malibu	90264	United States	California	Los Angeles	
+   34.005/-118.81
+106	Malibu	90265	United States	California	Los Angeles	
+   34.04/-118.735
+107	Montrose	91020	United States	California	Los Angeles	
+   34.211/-118.231
+108	Montrose	91021	United States	California	Los Angeles	
+   34.206/-118.224
+109	Sunland	91040	United States	California	Los Angeles	
+   34.262/-118.337
+110	Sunland	91041	United States	California	Los Angeles	
+   34.267/-118.302
+111	Agoura Hills	91301	United States	California	Los Angeles	
+   34.123/-118.757
+112	Winnetka	91306	United States	California	Los Angeles	
+   34.209/-118.575
+113	Chatsworth	91313	United States	California	Los Angeles	
+   34.257/-118.601
+114	Newhall	91321	United States	California	Los Angeles	
+   34.38/-118.523
+115	Newhall	91322	United States	California	Los Angeles	
+   34.385/-118.531
+116	Pacoima	91333	United States	California	Los Angeles	
+   34.263/-118.427
+117	Pacoima	91334	United States	California	Los Angeles	
+   34.263/-118.427
+118	Sylmar	91342	United States	California	Los Angeles	
+   34.305/-118.432
+119	Valencia	91354	United States	California	Los Angeles	
+   34.447/-118.537
+120	Valencia	91355	United States	California	Los Angeles	
+   34.398/-118.554
+121	Tarzana	91356	United States	California	Los Angeles	
+   34.167/-118.541
+122	Tarzana	91357	United States	California	Los Angeles	
+   34.173/-118.554
+123	Valencia	91385	United States	California	Los Angeles	
+   34.444/-118.61
+124	Sylmar	91392	United States	California	Los Angeles	
+   34.308/-118.449
+125	Winnetka	91396	United States	California	Los Angeles	
+   34.213/-118.572
+126	Tujunga	91043	United States	California	Los Angeles	
+   34.252/-118.288
+127	Santa Monica	90404	United States	California	Los Angeles	
+   34.027/-118.473
+128	Santa Monica	90401	United States	California	Los Angeles	
+   34.018/-118.491
+129	Santa Monica	90403	United States	California	Los Angeles	
+   34.029/-118.492
+130	Santa Monica	90405	United States	California	Los Angeles	
+   34.01/-118.472
+131	Long Beach	90802	United States	California	Los Angeles	
+   33.771/-118.182
+132	Long Beach	90804	United States	California	Los Angeles	
+   33.786/-118.136
+133	Pacific Palisades	90272	United States	California	Los Angeles	
+   34.048/-118.526
+134	Palos Verdes Peninsula	90274	United States	California	Los Angeles	
+   33.767/-118.381
+135	Harbor City	90710	United States	California	Los Angeles	
+   33.797/-118.299
+136	Wilmington	90744	United States	California	Los Angeles	
+   33.785/-118.264
+137	Mount Wilson	91023	United States	California	Los Angeles	
+   34.226/-118.066
+138	Verdugo City	91046	United States	California	Los Angeles	
+   34.211/-118.24
+139	La Crescenta	91214	United States	California	Los Angeles	
+   34.232/-118.246
+140	La Crescenta	91224	United States	California	Los Angeles	
+   34.224/-118.24
+141	Canoga Park	91303	United States	California	Los Angeles	
+   34.199/-118.598
+142	Canoga Park	91304	United States	California	Los Angeles	
+   34.22/-118.611
+143	Canoga Park	91305	United States	California	Los Angeles	
+   34.201/-118.598
+144	West Hills	91307	United States	California	Los Angeles	
+   34.196/-118.639
+145	West Hills	91308	United States	California	Los Angeles	
+   34.197/-118.644
+146	Canoga Park	91309	United States	California	Los Angeles	
+   34.201/-118.598
+147	Castaic	91310	United States	California	Los Angeles	
+   34.489/-118.623
+148	Encino	91316	United States	California	Los Angeles	
+   34.165/-118.518
+149	Northridge	91324	United States	California	Los Angeles	
+   34.237/-118.547
+150	Northridge	91325	United States	California	Los Angeles	
+   34.235/-118.519
+151	Northridge	91327	United States	California	Los Angeles	
+   34.228/-118.537
+152	Northridge	91328	United States	California	Los Angeles	
+   34.228/-118.537
+153	Northridge	91329	United States	California	Los Angeles	
+   34.228/-118.537
+154	Northridge	91330	United States	California	Los Angeles	
+   34.228/-118.537
+155	Reseda	91335	United States	California	Los Angeles	
+   34.201/-118.539
+156	Reseda	91337	United States	California	Los Angeles	
+   34.201/-118.536
+157	North Hills	91343	United States	California	Los Angeles	
+   34.237/-118.476
+158	Granada Hills	91344	United States	California	Los Angeles	
+   34.277/-118.499
+159	Mission Hills	91345	United States	California	Los Angeles	
+   34.262/-118.459
+160	Canyon Country	91351	United States	California	Los Angeles	
+   34.426/-118.449
+161	Sun Valley	91352	United States	California	Los Angeles	
+   34.221/-118.37
+162	Sun Valley	91353	United States	California	Los Angeles	
+   34.218/-118.37
+163	Woodland Hills	91364	United States	California	Los Angeles	
+   34.156/-118.6
+164	Woodland Hills	91365	United States	California	Los Angeles	
+   34.168/-118.606
+165	Woodland Hills	91367	United States	California	Los Angeles	
+   34.177/-118.616
+166	Agoura Hills	91376	United States	California	Los Angeles	
+   34.136/-118.775
+167	Castaic	91384	United States	California	Los Angeles	
+   34.483/-118.625
+168	Granada Hills	91394	United States	California	Los Angeles	
+   34.265/-118.523
+169	Panorama City	91402	United States	California	Los Angeles	
+   34.226/-118.447
+170	Sherman Oaks	91403	United States	California	Los Angeles	
+   34.151/-118.46
+171	Panorama City	91412	United States	California	Los Angeles	
+   34.225/-118.45
+172	Studio City	91604	United States	California	Los Angeles	
+   34.143/-118.391
+173	Valley Village	91607	United States	California	Los Angeles	
+   34.167/-118.399
+174	Downey	90240	United States	California	Los Angeles	
+   33.958/-118.117
+175	Downey	90241	United States	California	Los Angeles	
+   33.942/-118.131
+176	Gardena	90247	United States	California	Los Angeles	
+   33.892/-118.296
+177	Gardena	90248	United States	California	Los Angeles	
+   33.877/-118.284
+178	Gardena	90249	United States	California	Los Angeles	
+   33.9/-118.32
+179	Hawthorne	90250	United States	California	Los Angeles	
+   33.914/-118.349
+180	Hawthorne	90251	United States	California	Los Angeles	
+   33.916/-118.353
+181	Lawndale	90260	United States	California	Los Angeles	
+   33.888/-118.351
+182	Lawndale	90261	United States	California	Los Angeles	
+   33.887/-118.353
+183	Maywood	90270	United States	California	Los Angeles	
+   33.989/-118.188
+184	Topanga	90290	United States	California	Los Angeles	
+   34.108/-118.602
+185	Venice	90291	United States	California	Los Angeles	
+   33.994/-118.463
+186	Playa Del Rey	90293	United States	California	Los Angeles	
+   33.958/-118.437
+187	Venice	90294	United States	California	Los Angeles	
+   33.991/-118.46
+188	Playa Del Rey	90296	United States	California	Los Angeles	
+   33.787/-118.299
+189	Whittier	90601	United States	California	Los Angeles	
+   34.001/-118.037
+190	Whittier	90602	United States	California	Los Angeles	
+   33.969/-118.034
+191	Whittier	90603	United States	California	Los Angeles	
+   33.943/-117.993
+192	Cerritos	90703	United States	California	Los Angeles	
+   33.867/-118.069
+193	Lomita	90717	United States	California	Los Angeles	
+   33.794/-118.317
+194	Paramount	90723	United States	California	Los Angeles	
+   33.897/-118.163
+195	San Pedro	90731	United States	California	Los Angeles	
+   33.734/-118.291
+196	San Pedro	90732	United States	California	Los Angeles	
+   33.742/-118.312
+197	San Pedro	90733	United States	California	Los Angeles	
+   33.787/-118.299
+198	San Pedro	90734	United States	California	Los Angeles	
+   33.787/-118.299
+199	Wilmington	90748	United States	California	Los Angeles	
+   33.78/-118.263
+200	Altadena	91001	United States	California	Los Angeles	
+   34.191/-118.139
